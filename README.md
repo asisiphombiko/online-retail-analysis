@@ -6,44 +6,39 @@ This project presents an interactive Power BI dashboard built using the UK Onlin
 ---
 
 # Objectives
- Analyse sales performance and revenue trends.
-Identify top-performing products and product categories.
-Understand customer purchasing behaviour.
-Evaluate sales performance across countries.
-Provide actionable insights to support business decision-making.
+- Analyse sales performance and revenue trends.
+- Identify top-performing products and product categories.
+- Understand customer purchasing behaviour.
+- Evaluate sales performance across countries.
+- Provide actionable insights to support business decision-making.
 
 ---
 
 # Tools Used
- Power BI
-Power Query
-DAX
-Microsoft Excel 
+-Power BI
+-Power Query
+-DAX
+-Microsoft Excel 
 
 ---
 ## 📊 Dashboard Overview
-The dashboard includes:
-
-- Total customers, churned customers, and churn rate  
-- Customer segments (gender, partners, dependents)  
-- Service usage (internet type, security, backup, streaming)  
-- Contract types  
-- Payment methods  
+- The dashboard includes:
+- Interactive sales dashboard
+- Revenue trend analysis
+- Top-selling products
+- Revenue contribution by product category
+- Customer analysis
+- Country-wise sales performance
+- KPI cards for Revenue, Orders, Customers, and Quantity Sold
+- Interactive filters and slicers 
+---
+# Business Insights
+Identified the highest revenue-generating product categories.
+Analysed customer purchasing patterns.
+Highlighted the countries contributing the most revenue.
+Provided recommendations to improve sales performance and support strategic business decisions.
 
 ---
-
-## Key Insights
-
-
----
-
-## 💡 Recommendations
-Based on the analysis, the business can:
-
-
-
----
-
 ##  How to Use This Project
 1. Download the Power BI file (.pbix)  
 2. Open it in Power BI Desktop  
